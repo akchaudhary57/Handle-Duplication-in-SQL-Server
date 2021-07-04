@@ -1,5 +1,7 @@
 # Handle-Duplication in SQL Server
 
+#### We have handled duplication based on following scenarios:-
+
 **CaseI:** Duplication based on firstname, lastname,emailaddress and zip code.
 
 **CaseII:** Duplication based on Email Address.
